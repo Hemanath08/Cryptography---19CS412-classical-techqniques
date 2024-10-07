@@ -308,6 +308,7 @@ The cipher can, be adapted to an alphabet with any number of letters. All arithm
 
 
 ## PROGRAM:
+```
 #include<stdio.h>
 #include<string.h>
 int main()
@@ -349,7 +350,7 @@ printf(" %c",c[i]+65);
 return 0;
 }  
 
-
+```
 ## OUTPUT:
 ![output 2](https://github.com/user-attachments/assets/84bbc593-9cb6-4ad6-91e5-94a6c09265d9)
 
